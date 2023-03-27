@@ -1,0 +1,7 @@
+__pycache__/
+*ckpt
+wandb
+runs
+flagged
+checkpoint-5000*
+llama-7b*
